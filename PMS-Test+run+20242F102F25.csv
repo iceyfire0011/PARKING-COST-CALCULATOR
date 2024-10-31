@@ -1,0 +1,1857 @@
+case_id,title,suite,suite_id,assignee,time_spent_ms,status,finish_time,steps,steps_input_data,steps_expected_result,steps_status,steps_comments,comment,stacktrace,priority,severity,automation,type,tags,is_muted,case_parameter
+38,"Calculate Long-Term Surface Parking (North Lot) rate for less than 1 hour",,,"Abdul Wassae S.M.",7950,Passed,"2024-10-25 18:34:34","1. Go to Long-Term Surface Parking (North Lot) page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 12:59 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $2.00
+","1. Untested
+2. Untested
+3. Untested
+4. Untested
+5. Untested
+6. Untested
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+38,"Calculate Long-Term Surface Parking (North Lot) rate for less than 1 hour",,,"Abdul Wassae S.M.",0,Retest,"2024-10-25 18:35:31","1. Go to Long-Term Surface Parking (North Lot) page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 12:59 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $2.00
+",,,,,High,Normal,Manual,Functional,,false,
+38,"Calculate Long-Term Surface Parking (North Lot) rate for less than 1 hour",,,"Abdul Wassae S.M.",12276,Passed,"2024-10-25 18:35:44","1. Go to Long-Term Surface Parking (North Lot) page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 12:59 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $2.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+50,"Calculate Economy Lot Parking rate for less than 1 hour",,,"Abdul Wassae S.M.",17951,Passed,"2024-10-25 18:40:18","1. Go to Economy Lot Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 12:59 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $2.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+13,"Calculate Short-Term (Hourly) Parking rate for less than 1 hour",,,"Abdul Wassae S.M.",15577,Passed,"2024-10-25 18:22:23","1. Go to Short-Term (Hourly) Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 12:59 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $2.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+27,"Calculate Long-Term Garage Parking rate for 1 hour",,,"Abdul Wassae S.M.",11742,Passed,"2024-10-25 18:26:56","1. Go to Long-Term Garage Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 01:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $2.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+1,"Calculate Valet Parking rate for 4 hours","Valet Parking",1,"Abdul Wassae S.M.",12662,Passed,"2024-10-25 18:20:59","1. Go to Valet Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 4:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $12.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+2,"Calculate Valet Parking rate for 5 hours","Valet Parking",1,"Abdul Wassae S.M.",10369,Passed,"2024-10-25 18:21:11","1. Go to Valet Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 5:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $12.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+3,"Calculate Valet Parking rate for 6 hours","Valet Parking",1,"Abdul Wassae S.M.",11190,Passed,"2024-10-25 18:21:23","1. Go to Valet Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 6:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $18.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+4,"Calculate Valet Parking rate for 23 hours","Valet Parking",1,"Abdul Wassae S.M.",10769,Passed,"2024-10-25 18:21:36","1. Go to Valet Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 11:00 PM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $18.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+5,"Calculate Valet Parking rate for 24 hours","Valet Parking",1,"Abdul Wassae S.M.",10769,Passed,"2024-10-25 18:21:49","1. Go to Valet Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 1
+5. 12:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $18.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+6,"Calculate Valet Parking rate for 25 hours","Valet Parking",1,"Abdul Wassae S.M.",12026,Passed,"2024-10-25 18:22:05","1. Go to Valet Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 1
+5. 1:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $36.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+14,"Calculate Short-Term (Hourly) Parking rate for 1 hour","Short-Term (Hourly) Parking",3,"Abdul Wassae S.M.",12152,Passed,"2024-10-25 18:22:36","1. Go to Short-Term (Hourly) Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 01:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $2.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+15,"Calculate Short-Term (Hourly) Parking rate for 1 hour and 1 min","Short-Term (Hourly) Parking",3,"Abdul Wassae S.M.",13133,Passed,"2024-10-25 18:22:51","1. Go to Short-Term (Hourly) Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 01:01 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $3.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+16,"Calculate Short-Term (Hourly) Parking rate for 1 hour and 29 min","Short-Term (Hourly) Parking",3,"Abdul Wassae S.M.",11454,Passed,"2024-10-25 18:23:04","1. Go to Short-Term (Hourly) Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 01:29 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $3.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+17,"Calculate Short-Term (Hourly) Parking rate for 1 hour and 30 min","Short-Term (Hourly) Parking",3,"Abdul Wassae S.M.",14383,Passed,"2024-10-25 18:23:20","1. Go to Short-Term (Hourly) Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 01:30 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $3.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+18,"Calculate Short-Term (Hourly) Parking rate for 1 hour and 31 mins","Short-Term (Hourly) Parking",3,"Abdul Wassae S.M.",13174,Passed,"2024-10-25 18:23:35","1. Go to Short-Term (Hourly) Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 01:31 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $4.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+21,"Calculate Short-Term (Hourly) Parking rate for 11 hours and 59 mins","Short-Term (Hourly) Parking",3,"Abdul Wassae S.M.",19277,Passed,"2024-10-25 18:23:55","1. Go to Short-Term (Hourly) Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 11:59 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $24.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+19,"Calculate Short-Term (Hourly) Parking rate for 12 hours","Short-Term (Hourly) Parking",3,"Abdul Wassae S.M.",11394,Passed,"2024-10-25 18:24:08","1. Go to Short-Term (Hourly) Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 12:00 PM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $24.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+20,"Calculate Short-Term (Hourly) Parking rate for 12 hours and 1 min","Short-Term (Hourly) Parking",3,"Abdul Wassae S.M.",62378,Passed,"2024-10-25 18:25:42","1. Go to Short-Term (Hourly) Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 12:01 PM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $24.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+22,"Calculate Short-Term (Hourly) Parking rate for 23 hours and 59 min","Short-Term (Hourly) Parking",3,"Abdul Wassae S.M.",11077,Passed,"2024-10-25 18:25:54","1. Go to Short-Term (Hourly) Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 11:59 PM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $24.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+23,"Calculate Short-Term (Hourly) Parking rate for 24 hours","Short-Term (Hourly) Parking",3,"Abdul Wassae S.M.",11596,Passed,"2024-10-25 18:26:08","1. Go to Short-Term (Hourly) Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 1
+5. 12:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $24.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+24,"Calculate Short-Term (Hourly) Parking rate for 24 hours and 1 min","Short-Term (Hourly) Parking",3,"Abdul Wassae S.M.",14510,Passed,"2024-10-25 18:26:24","1. Go to Short-Term (Hourly) Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 1
+5. 12:01 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $25.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+26,"Calculate Long-Term Garage Parking rate for 1 hour","Long-Term Garage Parking",4,"Abdul Wassae S.M.",15389,Passed,"2024-10-25 18:26:41","1. Go to Long-Term Garage Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 12:59 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $2.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+28,"Calculate  Long-Term Garage Parking rate for 1 hour and 1 min","Long-Term Garage Parking",4,"Abdul Wassae S.M.",9724,Passed,"2024-10-25 18:27:08","1. Go to Long-Term Garage Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 01:01 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $4.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+29,"Calculate  Long-Term Garage Parking rate for 5 hours","Long-Term Garage Parking",4,"Abdul Wassae S.M.",12396,Passed,"2024-10-25 18:27:22","1. Go to Long-Term Garage Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 05:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $10.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+30,"Calculate  Long-Term Garage Parking rate for 5 hours and 1 min","Long-Term Garage Parking",4,"Abdul Wassae S.M.",23019,Passed,"2024-10-25 18:27:46","1. Go to Long-Term Garage Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 05:01 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $12.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+31,"Calculate  Long-Term Garage Parking rate for 23 hours and 59 mins","Long-Term Garage Parking",4,"Abdul Wassae S.M.",14042,Passed,"2024-10-25 18:28:05","1. Go to Long-Term Garage Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 11:59 PM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $12.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+32,"Calculate  Long-Term Garage Parking rate for 24 hours","Long-Term Garage Parking",4,"Abdul Wassae S.M.",14413,Passed,"2024-10-25 18:28:22","1. Go to Long-Term Garage Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 1
+5. 12:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $12.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+33,"Calculate  Long-Term Garage Parking rate for 24 hours and 1 min","Long-Term Garage Parking",4,"Abdul Wassae S.M.",12137,Passed,"2024-10-25 18:28:37","1. Go to Long-Term Garage Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 1
+5. 12:01 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $14.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+34,"Calculate  Long-Term Garage Parking rate for 5 days","Long-Term Garage Parking",4,"Abdul Wassae S.M.",11553,Passed,"2024-10-25 18:28:50","1. Go to Long-Term Garage Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 5
+5. 12:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $60.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+34,"Calculate  Long-Term Garage Parking rate for 5 days","Long-Term Garage Parking",4,"Abdul Wassae S.M.",0,Retest,"2024-10-25 18:29:10","1. Go to Long-Term Garage Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 5
+5. 12:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $60.00
+",,,,,High,Normal,Manual,Functional,,false,
+34,"Calculate  Long-Term Garage Parking rate for 5 days","Long-Term Garage Parking",4,"Abdul Wassae S.M.",11000,Failed,"2024-10-25 18:32:00","1. Go to Long-Term Garage Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 5
+5. 12:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $60.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Failed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ","<p>estimated Parking costs<br />
+$62.00 (6 Days, 1 Hours, 0 Minutes)<br />
+Which should be<br />
+$60.00 (6 Days, 0 Hours, 0 Minutes)</p>",,High,Normal,Manual,Functional,,false,
+35,"Calculate  Long-Term Garage Parking rate for 6 days","Long-Term Garage Parking",4,"Abdul Wassae S.M.",20860,Passed,"2024-10-25 18:32:49","1. Go to Long-Term Garage Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 6
+5. 12:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $72.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+36,"Calculate  Long-Term Garage Parking rate for 7 days","Long-Term Garage Parking",4,"Abdul Wassae S.M.",14000,Failed,"2024-10-25 18:33:17","1. Go to Long-Term Garage Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 7
+5. 12:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $72.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Failed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ","<p>estimated Parking costs<br />
+$74.00 (7 Days, 1 Hours, 0 Minutes)<br />
+Which should be<br />
+$72.00 (7 Days, 0 Hours, 0 Minutes)</p>",,High,Normal,Manual,Functional,,false,
+37,"Calculate  Long-Term Garage Parking rate for 7 days and 1 min","Long-Term Garage Parking",4,"Abdul Wassae S.M.",13000,Failed,"2024-10-25 18:34:08","1. Go to Long-Term Garage Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 7
+5. 12:01 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $74.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Failed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ","<p>estimated Parking costs<br />
+$76.00 (7 Days, 1 Hours, 1 Minutes)<br />
+which should be<br />
+estimated Parking costs<br />
+$ 74.00 (7 Days, 0 Hours, 1 Minutes)</p>",,High,Normal,Manual,Functional,,false,
+39,"Calculate Long-Term Surface Parking (North Lot) rate for 1 hour","Long-Term Surface Parking (North Lot)",5,"Abdul Wassae S.M.",816,Passed,"2024-10-25 18:34:37","1. Go to Long-Term Surface Parking (North Lot) page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 01:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $2.00
+","1. Untested
+2. Untested
+3. Untested
+4. Untested
+5. Untested
+6. Untested
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+39,"Calculate Long-Term Surface Parking (North Lot) rate for 1 hour","Long-Term Surface Parking (North Lot)",5,"Abdul Wassae S.M.",0,Retest,"2024-10-25 18:35:10","1. Go to Long-Term Surface Parking (North Lot) page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 01:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $2.00
+",,,,,High,Normal,Manual,Functional,,false,
+39,"Calculate Long-Term Surface Parking (North Lot) rate for 1 hour","Long-Term Surface Parking (North Lot)",5,"Abdul Wassae S.M.",12739,Passed,"2024-10-25 18:35:23","1. Go to Long-Term Surface Parking (North Lot) page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 01:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $2.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+40,"Calculate Long-Term Surface Parking (North Lot) rate for 1 hour and 1 min","Long-Term Surface Parking (North Lot)",5,"Abdul Wassae S.M.",12804,Passed,"2024-10-25 18:34:52","1. Go to Long-Term Surface Parking (North Lot) page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 01:01 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $4.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+41,"Calculate Long-Term Surface Parking (North Lot) rate for 4 hours","Long-Term Surface Parking (North Lot)",5,"Abdul Wassae S.M.",14758,Passed,"2024-10-25 18:35:57","1. Go to Long-Term Surface Parking (North Lot) page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 04:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $8.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+42,"Calculate Long-Term Surface Parking (North Lot) rate for 4 hours and 1 min","Long-Term Surface Parking (North Lot)",5,"Abdul Wassae S.M.",11994,Passed,"2024-10-25 18:36:11","1. Go to Long-Term Surface Parking (North Lot) page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 04:01 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $10.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+43,"Calculate Long-Term Surface Parking (North Lot) rate for 23 hours and 59 mins","Long-Term Surface Parking (North Lot)",5,"Abdul Wassae S.M.",15040,Passed,"2024-10-25 18:36:27","1. Go toLong-Term Surface Parking (North Lot) page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 11:59 PM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $10.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+44,"Calculate Long-Term Surface Parking (North Lot) rate for 24 hours","Long-Term Surface Parking (North Lot)",5,"Abdul Wassae S.M.",11452,Passed,"2024-10-25 18:36:40","1. Go to Long-Term Surface Parking (North Lot) page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 1
+5. 12:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $10.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+45,"Calculate Long-Term Surface Parking (North Lot) rate for 24 hours and 1 min","Long-Term Surface Parking (North Lot)",5,"Abdul Wassae S.M.",11251,Passed,"2024-10-25 18:36:53","1. Go to Long-Term Surface Parking (North Lot) page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 1
+5. 12:01 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $12.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+46,"Calculate Long-Term Surface Parking (North Lot) rate for 5 days","Long-Term Surface Parking (North Lot)",5,"Abdul Wassae S.M.",21000,Failed,"2024-10-25 18:38:05","1. Go to Long-Term Surface Parking (North Lot) page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 5
+5. 12:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $50.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Failed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ","<p>estimated Parking costs<br />
+$ 52.00 (5 Days, 1 Hours, 0 Minutes)<br />
+Which should be<br />
+estimated Parking costs<br />
+$ 50.00 (5 Days, 0 Hours, 0 Minutes)</p>",,High,Normal,Manual,Functional,,false,
+47,"Calculate Long-Term Surface Parking (North Lot) rate for 6 days","Long-Term Surface Parking (North Lot)",5,"Abdul Wassae S.M.",11353,Passed,"2024-10-25 18:38:26","1. Go to Long-Term Surface Parking (North Lot) page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 6
+5. 12:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $60.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+48,"Calculate Long-Term Surface Parking (North Lot) rate for 7 days","Long-Term Surface Parking (North Lot)",5,"Abdul Wassae S.M.",8000,Failed,"2024-10-25 18:38:51","1. Go to Long-Term Surface Parking (North Lot) page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 7
+5. 12:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $60.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Failed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ","<p>estimated Parking costs<br />
+$ 62.00 (7 Days, 1 Hours, 0 Minutes)<br />
+which should be<br />
+estimated Parking costs<br />
+$ 60.00 (7 Days, 0 Hours, 0 Minutes)</p>",,High,Normal,Manual,Functional,,false,
+49,"Calculate Long-Term Surface Parking (North Lot) rate for 7 days and 1 min","Long-Term Surface Parking (North Lot)",5,"Abdul Wassae S.M.",10000,Failed,"2024-10-25 18:39:45","1. Go to Long-Term Surface Parking (North Lot) page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 7
+5. 12:01 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $62.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Failed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ","<p>estimated Parking costs<br />
+$ 64.00 (7 Days, 1 Hours, 1 Minutes)<br />
+Which should ne<br />
+estimated Parking costs<br />
+$ 62.00 (7 Days, 0 Hours, 1 Minutes)</p>",,High,Normal,Manual,Functional,,false,
+51,"Calculate Economy Lot Parking rate for 1 hour","Economy Lot Parking",6,"Abdul Wassae S.M.",10485,Passed,"2024-10-25 18:40:31","1. Go to Economy Lot Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 01:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $2.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+52,"Calculate Economy Lot Parking rate for 1 hour and 1 min","Economy Lot Parking",6,"Abdul Wassae S.M.",10130,Passed,"2024-10-25 18:40:44","1. Go to Economy Lot Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 01:01 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $4.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+53,"Calculate Economy Lot Parking rate for 4 hours","Economy Lot Parking",6,"Abdul Wassae S.M.",11596,Passed,"2024-10-25 18:40:58","1. Go to Economy Lot Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 04:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $8.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+54,"Calculate Economy Lot Parking rate for 4 hours and 1 min","Economy Lot Parking",6,"Abdul Wassae S.M.",11927,Passed,"2024-10-25 18:41:11","1. Go to Economy Lot Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 04:01 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $9.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+55,"Calculate Economy Lot Parking rate for 23 hours and 59 mins","Economy Lot Parking",6,"Abdul Wassae S.M.",10467,Passed,"2024-10-25 18:41:24","1. Go to Economy Lot Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date
+5. 11:59 PM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $9.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+56,"Calculate Economy Lot Parking rate for 24 hours","Economy Lot Parking",6,"Abdul Wassae S.M.",15676,Passed,"2024-10-25 18:41:41","1. Go to Economy Lot Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 1
+5. 12:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $9.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+57,"Calculate Economy Lot Parking rate for 24 hours and 1 min","Economy Lot Parking",6,"Abdul Wassae S.M.",38429,Passed,"2024-10-25 18:42:21","1. Go to Economy Lot Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 1
+5. 12:01 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $11.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+58,"Calculate Economy Lot Parking rate for 5 days","Economy Lot Parking",6,"Abdul Wassae S.M.",10000,Failed,"2024-10-25 18:42:39","1. Go to Economy Lot Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 5
+5. 12:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $45.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Failed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ","<p>estimated Parking costs<br />
+$ 47.00 (5 Days, 1 Hours, 0 Minutes)<br />
+Which should be<br />
+estimated Parking costs<br />
+$ 45.00 (5 Days, 0 Hours, 0 Minutes)</p>",,High,Normal,Manual,Functional,,false,
+59,"Calculate Economy Lot Parking rate for 6 days","Economy Lot Parking",6,"Abdul Wassae S.M.",10765,Passed,"2024-10-25 18:43:01","1. Go to Economy Lot Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 6
+5. 12:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $54.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ",,,High,Normal,Manual,Functional,,false,
+60,"Calculate Economy Lot Parking rate for 7 days","Economy Lot Parking",6,"Abdul Wassae S.M.",9000,Failed,"2024-10-25 18:43:26","1. Go to Economy Lot Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 7
+5. 12:00 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $54.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Failed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ","<p>estimated Parking costs<br />
+$ 56.00 (7 Days, 1 Hours, 0 Minutes)<br />
+Which should be<br />
+estimated Parking costs<br />
+$ 54.00 (7 Days, 0 Hours, 0 Minutes)</p>",,High,Normal,Manual,Functional,,false,
+61,"Calculate Economy Lot Parking rate for 7 days and 1 min","Economy Lot Parking",6,"Abdul Wassae S.M.",8000,Failed,"2024-10-25 18:43:59","1. Go to Economy Lot Parking page
+2. Enter Entry Date
+3. Enter Entry Time
+4. Enter Leaving Date
+5. Enter Leaving Time
+6. Click Calculate Cost Button
+","1. URL
+2. Current Date
+3. 12:00 AM
+4. Current Date + 7
+5. 12:01 AM
+6. N/A
+","1. UI Display
+2. System Allow Input
+3. System Allow Input
+4. System Allow Input
+5. System Allow Input
+6. System Display cost $56.00
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Failed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. ","<p>estimated Parking costs<br />
+$ 58.00 (7 Days, 1 Hours, 1 Minutes)<br />
+Which should be<br />
+estimated Parking costs<br />
+$ 56.00 (7 Days, 0 Hours, 1 Minutes)</p>",,High,Normal,Manual,Functional,,false,
+62,"Calculate Lost Ticket Fee","Lost Ticket Fee",7,"Abdul Wassae S.M.",7193,Passed,"2024-10-25 18:44:18","1. Go to Lost Ticket Fee page
+2. Click on Lost Ticket Button
+","1. URL
+2. N/A
+","1. UI Display
+2. System Display $10.00 fee
+","1. Passed
+2. Passed
+","1. 
+2. ",,,High,Normal,Manual,Functional,,false,
+63,"input validation","UI Testing",8,"Abdul Wassae S.M.",11000,Failed,"2024-10-25 19:34:34","1. go to parking page
+2. give input to select room
+3. Enter entry date
+4. Enter current time
+5. Enter leaving date
+6. Enter leaving time
+7. Click calculate button
+","1. URL
+2. economy
+3. current date
+4. 12:00 am
+5. current date
+6. 12:59 am
+7. N/A
+","1. Display UI
+2. System allow select option
+3. System allow input
+4. System allow input
+5. System allow input
+6. System allow input
+7. System will calculate and show $2 with all input as given.
+","1. Passed
+2. Passed
+3. Passed
+4. Passed
+5. Passed
+6. Passed
+7. Failed
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. ","<p>After click on calculate Select option is reset to valet parking but it should keep and show the selected input for calculated result.</p>",,High,Major,Manual,Other,,false,
+64,"Responsive testing","UI Testing",8,"Abdul Wassae S.M.",5429,Passed,"2024-10-25 19:39:39","1. go to parking page
+2. Check the interface is broken or not
+","1. URL
+2. N/A
+","1. Display UI
+2. System will adapt its content
+","1. Passed
+2. Passed
+","1. 
+2. ",,,Medium,Normal,Manual,Other,,false,
